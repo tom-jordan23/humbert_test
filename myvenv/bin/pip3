@@ -1,4 +1,4 @@
-#!/home/tjordan/code/git/humbert_test/myvenv/bin/python3
+#!/Users/tjordan/code/git/humbert_test/myvenv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
